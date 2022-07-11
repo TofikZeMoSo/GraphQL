@@ -1,0 +1,28 @@
+
+GraphQL								REST
+GraphQL is an application layer server-side technology 
+which is developed by Facebook for executing queries 
+with existing data.						REST is a software architectural 									style that defines a set of 									constraints for creating Web 									services.
+
+It follows client-driven architecture.			It follows server-driven 									architecture.
+
+GraphQL can be organized in terms of a schema.		REST can be arranged in terms of 									endpoints.
+
+GraphQL is a growing community.				REST is a large community.
+
+The development speed in GraphQL is fast.			The development speed in REST is 									Slow.
+
+The learning curve in GraphQL is difficult.			The learning curve in REST is 								moderate.
+
+The identity is separated from how you fetch it.		The endpoint you call in REST is the 									identity of an object.
+
+In GraphQL, the server determines available 
+resources.							The shape and size of the resource 									are determined by the server in REST.
+GraphQL provides high consistency across all platforms.	It is hard to get consistency across all platforms.
+The message format for GraphQL mutations should be a string.	The message format for REST mutations can be anything.
+It is strongly typed.	It is weakly typed.
+GraphQL API endpoints are single.	REST API endpoints are multiple.
+It uses metadata for
+query validation.	It does not have machine-readable metadata cacheable.
+Provides consistent and high-quality UX across all operating systems.	It is difficult to get consistency across all operating systems.
+Partners of GraphQL require API customization.	It offers flexible public API that can easily enable new applications.
