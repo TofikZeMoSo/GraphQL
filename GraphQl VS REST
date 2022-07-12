@@ -26,3 +26,5 @@ It uses metadata for
 query validation.	It does not have machine-readable metadata cacheable.
 Provides consistent and high-quality UX across all operating systems.	It is difficult to get consistency across all operating systems.
 Partners of GraphQL require API customization.	It offers flexible public API that can easily enable new applications.
+
+Tofik Maniyar
